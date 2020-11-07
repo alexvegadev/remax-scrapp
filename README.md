@@ -6,5 +6,7 @@ Scrapper para la página REMAX, para extracción de datos de inmobiliaria.
 
 **Configuraciones:**
 * Se debe modificar la dirección del driver(el segundo parámetro):
-```System.setProperty("webdriver.chrome.driver", "C:\\ChromeDriver\\chromedriver.exe");
-```
+
+``
+System.setProperty("webdriver.chrome.driver", "C:\\ChromeDriver\\chromedriver.exe");
+``
